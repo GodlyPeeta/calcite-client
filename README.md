@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://raw.githubusercontent.com/GodlyPeeta/calcite-client/main/src/main/resources/calciteclient.png" style="width: 60%">
+</p>
 
 This is a fork of the KAMI Blue client because it got discontinued
 ## Thank you
