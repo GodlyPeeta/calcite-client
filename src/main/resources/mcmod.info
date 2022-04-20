@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "calcite",
+    "name": "Calcite",
+    "description": "A Minecraft utility mod\nFork of the discontinued KAMI Blue",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "updateUrl": "",
+    "authorList": [
+      "GodlyPeeta"
+    ],
+    "credits": "Thank you 086 for the original KAMI and l1ving for the continuation of it",
+    "logoFile": "calcite.jpg",
+    "dependencies": []
+  }
+]
