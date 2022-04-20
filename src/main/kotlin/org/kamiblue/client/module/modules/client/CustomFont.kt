@@ -13,10 +13,10 @@ import kotlin.collections.HashMap
 
 internal object CustomFont : Module(
     name = "CustomFont",
-    description = "Use the better font instead of the stupid Minecraft font",
+    description = "Use a custom font (I like the original minecraft font)",
     showOnArray = false,
     category = Category.CLIENT,
-    enabledByDefault = true
+    enabledByDefault = false
 ) {
     private const val DEFAULT_FONT_NAME = "Lato"
 

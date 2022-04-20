@@ -1,4 +1,4 @@
-## Calcite Client
+
 This is a fork of the KAMI Blue client because it got discontinued
 ## Thank you
 

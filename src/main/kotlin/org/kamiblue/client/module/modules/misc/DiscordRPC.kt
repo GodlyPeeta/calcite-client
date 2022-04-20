@@ -73,7 +73,7 @@ internal object DiscordRPC : Module(
         CalciteMod.LOG.info("Starting Discord RPC")
         connected = true
         rpc.Discord_Initialize(CalciteMod.APP_ID, DiscordEventHandlers(), true, "")
-        presence.startTimestamp = System.currentTimeMillis() / 1000L
+        //presence.startTimestamp = System.currentTimeMillis() / 1000L
 
         BackgroundScope.launchLooping(job)
 
