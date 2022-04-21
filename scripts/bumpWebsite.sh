@@ -23,7 +23,7 @@ if [ ! -f "$KAMI_WEBSITE_DIR/api/v1/builds" ]; then
   exit 1
 fi
 
-BUILD_NUMBER_PREVIOUS=$(curl -s https://kamiblue.org/api/v1/builds)
+BUILD_NUMBER_PREVIOUS=$(curl -s https://calcite.org/api/v1/builds)
 BUILD_NUMBER=$((BUILD_NUMBER_PREVIOUS + 1))
 
 if [ "$BUILD_NUMBER" == "$BUILD_NUMBER_PREVIOUS" ]; then

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            {
+                "model": "calcite:calcite_xray_transparent"
+            }
+        ]
+    }
+}
